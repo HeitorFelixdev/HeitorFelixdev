@@ -32,5 +32,5 @@
 ---
 
 ## 🌐 Onde me encontrar
-- 💼 [LinkedIn](https://linkedin.com) *(adicione seu link aqui)*  
-- 📧 **seuemail@email.com** *(joseheitor1227@gmail.com)*  
+- 💼 [LinkedIn] *www.linkedin.com/in/heitorfelixdev*  
+- 📧 **joseheitor1227@gmail.com**
